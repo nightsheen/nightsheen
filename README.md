@@ -14,7 +14,7 @@
         <img src='https://img.shields.io/badge/Mysql-%3E%3D5.7-green' alt='MYSQL'></img>
     </a>
     <a href='https://gitee.com/nightsheen/domain'>
-        <img src='https://gitee.com/nightsheen/domain/badge/star.svg?theme=dark' alt='star'></img>
+        <img src='https://gitee.com/nightsheen/nightsheen/badge/star.svg?theme=dark' alt='star'></img>
     </a>
     <a href='https://github.com/nightsheen/nightsheen'>
         <img src='https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&color=181717&labelColor=0c57ee&query=%24.count&suffix=+stars&url=https://api.swo.moe/stats/github/nightsheen' alt='stars'></img>
